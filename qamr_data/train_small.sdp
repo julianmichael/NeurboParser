@@ -1,0 +1,845 @@
+#QAMR Dependencies
+#Wiki1k:wikipedia:19179592:59:2
+1	For	for	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+2	example	example	NN	*	*	-	-	_	_	_	_	_	_	_	_	_
+3	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+4	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+5	marine	marine	JJ	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_
+6	archaean	archaean	JJ	*	*	+	+	_	_	_	_	_	_	_	_	_
+7	Cenarchaeum	cenarchaeum	NNP	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_
+8	symbiosum	symbiosum	NN	*	*	-	-	_	_	unk-dir	_	_	_	_	_	_
+9	lives	live	VBZ	*	*	-	+	_	_	_	_	_	dep:nsubj	_	_	_
+10	within	within	IN	*	*	-	+	_	_	_	dep:prep	_	_	_	_	_
+11	-LRB-	-lrb-	NNP	*	*	-	-	_	_	_	_	dep:pobj	_	_	_	_
+12	is	be	VBZ	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_
+13	an	an	DT	*	*	-	-	_	_	_	_	_	_	dep:det	_	_
+14	endosymbiont	endosymbiont	NN	*	*	-	+	_	_	_	_	_	dep:attr	_	_	_
+15	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+16	-RRB-	-rrb-	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_
+17	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+18	sponge	sponge	NN	*	*	-	+	_	_	_	_	_	_	_	_	_
+19	Axinella	axinella	NNP	*	*	-	-	_	_	_	_	_	_	_	_	dep:compound
+20	mexicana	mexicana	NN	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_
+21	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:749788:8:0
+1	Liam	liam	NNP	*	*	-	-	_	unk-dir	unk-dir	_	_	unk-dir
+2	``	``	``	*	*	-	-	_	_	_	_	_	_
+3	had	have	VBD	*	*	-	-	_	_	_	_	_	_
+4	his	-pron-	PRP$	*	*	-	-	_	_	_	_	_	_
+5	whole	whole	JJ	*	*	-	-	_	dep:amod	_	_	_	_
+6	life	life	NN	*	*	+	+	_	_	_	_	_	_
+7	in	in	IN	*	*	-	-	_	_	_	_	_	_
+8	front	front	NN	*	*	-	+	_	unk-dir	_	_	_	_
+9	of	of	IN	*	*	-	-	_	_	_	_	_	_
+10	him	-pron-	PRP	*	*	-	-	_	_	_	_	_	_
+11	''	''	''	*	*	-	-	_	_	_	_	_	_
+12	,	,	,	*	*	-	-	_	_	_	_	_	_
+13	said	say	VBD	*	*	-	-	_	unk-dir	unk-dir	_	_	_
+14	Detective	detective	NNP	*	*	-	-	_	_	_	_	unk-dir	_
+15	Inspector	inspector	NNP	*	*	-	-	_	_	_	_	_	_
+16	Andy	andy	NNP	*	*	-	+	_	unk-dir	_	_	_	_
+17	Logan	logan	NNP	*	*	-	+	_	_	_	unk-dir	_	_
+18	,	,	,	*	*	-	-	_	_	_	_	_	_
+19	who	who	WP	*	*	-	-	_	_	_	_	_	_
+20	was	be	VBD	*	*	-	-	_	_	_	_	_	_
+21	the	the	DT	*	*	-	-	_	_	_	_	_	_
+22	senior	senior	JJ	*	*	-	-	_	_	_	_	_	_
+23	investigator	investigator	NN	*	*	-	+	_	_	_	_	_	_
+24	of	of	IN	*	*	-	-	_	_	_	_	_	_
+25	his	-pron-	PRP$	*	*	-	-	_	_	_	_	_	_
+26	murder	murder	NN	*	*	-	-	_	_	_	_	_	unk-dir
+27	.	.	.	*	*	-	-	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:56285:61:1
+1	The	the	DT	*	*	-	-	_	dep:det	_	_	_	_	_	_	_	_	_
+2	Rehabilitation	rehabilitation	NNP	*	*	-	-	_	dep:compound	_	_	_	_	_	_	_	_	_
+3	Act	act	NNP	*	*	-	+	_	_	_	unk-dir	_	_	_	_	unk-dir	_	_
+4	of	of	IN	*	*	-	+	_	dep:prep	_	_	_	_	_	_	_	_	_
+5	1973	1973	CD	*	*	-	-	_	_	dep:pobj	_	_	_	_	_	_	_	_
+6	has	have	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+7	not	not	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+8	only	only	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+9	helped	help	VBD	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_
+10	protect	protect	VB	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_
+11	U.S	u.s	NNP	*	*	-	+	_	_	_	_	unk-dir	_	_	_	unk-dir	_	_
+12	citizens	citizen	NNS	*	*	-	-	_	_	_	_	_	dep:pobj	_	_	_	_	_
+13	from	from	IN	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_
+14	being	be	VBG	*	*	-	-	_	_	_	_	_	_	_	dep:auxpass	_	_	_
+15	discriminated	discriminate	VBN	*	*	-	+	_	_	_	_	_	_	dep:pcomp	_	_	_	_
+16	against	against	IN	*	*	-	-	_	_	_	_	_	_	_	dep:prep	_	_	_
+17	but	but	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+18	it	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+19	has	have	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+20	also	also	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+21	created	create	VBN	*	*	-	-	_	_	_	unk-dir	_	_	_	_	_	_	_
+22	confidence	confidence	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+23	amongst	amongst	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+24	individuals	individual	NNS	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	_	_
+25	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+26	feel	feel	VB	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_
+27	more	more	RBR	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+28	comfortable	comfortable	JJ	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	_	_
+29	with	with	IN	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_
+30	their	-pron-	PRP$	*	*	-	-	_	_	_	_	_	_	_	_	_	_	dep:poss
+31	disability	disability	NN	*	*	-	+	_	_	_	_	_	_	_	_	_	dep:pobj	_
+32	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:11625:76:1
+1	He	-pron-	PRP	*	*	-	-	_	unk-dir	_	_	_	_
+2	tells	tell	VBZ	*	*	+	+	_	_	_	_	_	_
+3	of	of	IN	*	*	-	-	_	_	_	_	_	_
+4	meeting	meet	VBG	*	*	-	+	_	unk-dir	_	_	_	_
+5	old	old	JJ	*	*	-	-	_	_	_	dep:amod	_	_
+6	school	school	NN	*	*	-	-	_	_	_	dep:compound	_	_
+7	friends	friend	NNS	*	*	-	+	_	_	dep:dobj	_	_	_
+8	,	,	,	*	*	-	-	_	_	_	_	_	_
+9	who	who	WP	*	*	-	-	_	_	_	_	_	_
+10	are	be	VBP	*	*	-	-	_	_	_	_	_	_
+11	in	in	IN	*	*	-	-	_	_	_	_	_	_
+12	secure	secure	JJ	*	*	-	-	_	_	_	_	_	_
+13	positions	position	NNS	*	*	-	-	_	_	_	_	_	_
+14	and	and	CC	*	*	-	-	_	_	_	_	_	_
+15	treat	treat	VB	*	*	-	+	_	_	_	_	_	_
+16	him	-pron-	PRP	*	*	-	-	_	_	_	_	unk-dir	_
+17	with	with	IN	*	*	-	+	_	_	_	_	unk-dir	_
+18	condescension	condescension	NN	*	*	-	-	_	_	_	_	_	dep:pobj
+19	.	.	.	*	*	-	-	_	_	_	_	_	_
+
+#Wiki1k:wikinews:1201955:0:1
+1	He	-pron-	PRP	*	*	-	-	_	unk-dir	_	_
+2	was	be	VBD	*	*	-	-	_	_	_	_
+3	57	57	CD	*	*	+	+	_	_	_	_
+4	and	and	CC	*	*	-	-	_	_	_	_
+5	had	have	VBD	*	*	-	+	_	_	_	_
+6	terminal	terminal	JJ	*	*	-	-	_	_	_	_
+7	lung	lung	NN	*	*	-	+	_	_	unk-dir	_
+8	cancer	cancer	NN	*	*	-	-	_	_	_	unk-dir
+9	.	.	.	*	*	-	-	_	_	_	_
+
+#Wiki1k:wikinews:506304:3:0
+1	A	a	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	nurse	nurse	NN	*	*	-	+	_	_	_	_	unk-dir	_	_	unk-dir	_	_	_	_	_	_	_	_
+3	at	at	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	a	DT	*	*	-	-	_	_	dep:det	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	senior	senior	JJ	*	*	-	-	_	_	dep:amod	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	activity	activity	NN	*	*	-	-	_	_	dep:compound	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	center	center	NN	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_	_
+8	in	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Austin	austin	NNP	*	*	-	+	_	unk-dir	_	_	_	unk-dir	_	unk-dir	_	_	_	_	_	_	_	_
+10	told	tell	VBD	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	media	medium	NNS	*	*	-	-	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_
+12	she	-pron-	PRP	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	'd	'd	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	taken	take	VBN	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_
+15	time	time	NN	*	*	-	-	_	_	_	_	_	_	dep:dobj	_	_	_	_	_	_	_	_	_
+16	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	educate	educate	VB	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	their	-pron-	PRP$	*	*	-	-	_	_	_	_	_	_	_	_	dep:poss	_	_	_	_	_	_	_
+19	facility	facility	NN	*	*	-	+	_	_	_	_	_	_	_	_	_	dep:poss	_	_	_	_	_	_
+20	's	's	POS	*	*	-	-	_	_	_	_	_	_	_	_	dep:case	_	_	_	_	_	_	_
+21	clients	client	NNS	*	*	-	+	_	_	_	_	unk-dir	_	_	unk-dir	_	_	_	_	_	_	_	_
+22	about	about	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	virus	virus	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	proper	proper	JJ	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+27	precautions	precaution	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_
+28	;	;	:	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	Adding	add	VBG	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	``	``	``	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	They	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	feel	feel	VBP	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+34	less	less	RBR	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	dep:advmod	_	_	_
+35	alarmed	alarmed	JJ	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	unk-dir	_	_	_	_
+36	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	we	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	unk-dir	_	_
+38	try	try	VBP	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+39	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	protect	protect	VB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	our	-pron-	PRP$	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	dep:poss	_
+42	folks	folk	NNS	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	unk-dir
+43	here	here	RB	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+44	-LSB-	-lsb-	CD	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	...	...	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	-RSB-	-rsb-	UH	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	''	''	''	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:44911:50:0
+1	In	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+2	languages	language	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_
+3	accented	accent	VBN	*	*	+	+	_	_	_	_	_	_	_	_	_
+4	on	on	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+5	one	one	CD	*	*	-	-	_	_	unk-dir	_	_	_	_	_	_
+6	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+7	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+8	last	last	JJ	*	*	-	-	_	_	dep:amod	_	_	_	_	_	_
+9	three	three	CD	*	*	-	-	_	_	dep:nummod	_	_	_	_	_	_
+10	syllables	syllable	NNS	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_
+11	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+12	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+13	last	last	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_
+14	syllable	syllable	NN	*	*	-	-	_	unk-dir	_	unk-dir	_	_	_	_	_
+15	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_
+16	called	call	VBN	*	*	-	+	_	_	_	_	_	_	_	_	_
+17	the	the	DT	*	*	-	-	_	_	_	_	dep:det	_	_	_	_
+18	ultima	ultima	NN	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_
+19	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+20	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+21	next-to-last	next-to-last	NN	*	*	-	-	_	_	_	unk-dir	_	unk-dir	_	_	_
+22	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_
+23	called	call	VBN	*	*	-	-	_	_	_	_	_	_	_	_	_
+24	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+25	penult	penult	NN	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_
+26	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+27	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_
+28	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+29	third	third	JJ	*	*	-	-	_	_	_	_	_	_	dep:amod	_	_
+30	syllable	syllable	NN	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_
+31	from	from	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+32	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+33	end	end	NN	*	*	-	-	_	_	_	_	_	_	_	unk-dir	_
+34	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_
+35	called	call	VBN	*	*	-	+	_	_	_	_	_	_	_	_	_
+36	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	dep:det
+37	antepenult	antepenult	NN	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_
+38	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:1910958:2:0
+1	Investigators	investigator	NNS	*	*	-	-	_	unk-dir	_	_
+2	are	be	VBP	*	*	-	-	_	_	_	_
+3	focusing	focus	VBG	*	*	+	+	_	_	_	_
+4	on	on	IN	*	*	-	-	_	_	_	_
+5	the	the	DT	*	*	-	-	_	_	dep:det	_
+6	ATR	atr	NNP	*	*	-	-	_	_	dep:compound	_
+7	72-600	72-600	NNP	*	*	-	+	_	_	_	unk-dir
+8	's	's	POS	*	*	-	-	_	_	_	_
+9	engines	engine	NNS	*	*	-	+	_	unk-dir	_	_
+10	.	.	.	*	*	-	-	_	_	_	_
+
+#Wiki1k:wikinews:609824:2:4
+1	They	-pron-	PRP	*	*	-	-	_	_	_
+2	were	be	VBD	*	*	-	-	_	_	_
+3	successfully	successfully	RB	*	*	-	-	_	unk-dir	_
+4	removed	remove	VBN	*	*	+	+	_	_	_
+5	and	and	CC	*	*	-	-	_	_	_
+6	both	both	CC	*	*	-	-	_	_	_
+7	Almonte	almonte	NNP	*	*	-	+	_	unk-dir	_
+8	and	and	CC	*	*	-	-	_	_	dep:cc
+9	Collins	collins	NNP	*	*	-	-	_	_	dep:conj
+10	were	be	VBD	*	*	-	-	_	_	_
+11	arrested	arrest	VBN	*	*	-	-	_	_	_
+12	.	.	.	*	*	-	-	_	_	_
+
+#Wiki1k:wikinews:1641340:1:0
+1	Griffin	griffin	NNP	*	*	-	-	_	_	unk-dir	_	_
+2	was	be	VBD	*	*	-	-	_	_	_	_	_
+3	BNP	bnp	NNP	*	*	-	-	_	_	_	_	_
+4	chairman	chairman	NN	*	*	-	-	_	_	_	_	_
+5	until	until	IN	*	*	-	-	_	_	_	_	_
+6	July	july	NNP	*	*	-	-	_	_	unk-dir	_	unk-dir
+7	,	,	,	*	*	-	-	_	_	_	_	_
+8	when	when	WRB	*	*	-	-	_	_	_	_	_
+9	he	-pron-	PRP	*	*	-	-	_	_	_	_	_
+10	quit	quit	VBD	*	*	-	-	_	unk-dir	_	_	_
+11	the	the	DT	*	*	-	-	_	_	_	_	_
+12	role	role	NN	*	*	-	+	_	_	unk-dir	_	_
+13	and	and	CC	*	*	-	-	_	_	_	_	_
+14	became	become	VBD	*	*	+	+	_	_	_	_	_
+15	honorary	honorary	JJ	*	*	-	-	_	_	unk-dir	_	_
+16	president	president	NN	*	*	-	-	_	_	unk-dir	_	_
+17	;	;	:	*	*	-	-	_	_	_	_	_
+18	acting	act	VBG	*	*	-	+	_	_	_	_	unk-dir
+19	chairman	chairman	NN	*	*	-	-	_	_	_	unk-dir	_
+20	Adam	adam	NNP	*	*	-	-	_	_	_	_	_
+21	Walker	walker	NNP	*	*	-	-	_	_	_	_	_
+22	took	take	VBD	*	*	-	+	_	_	_	_	_
+23	his	-pron-	PRP$	*	*	-	-	_	_	_	_	_
+24	place	place	NN	*	*	-	-	_	_	_	_	unk-dir
+25	.	.	.	*	*	-	-	_	_	_	_	_
+
+#Wiki1k:wikipedia:10396793:17:0
+1	The	the	DT	*	*	-	-	_	_	_	_	_
+2	most	most	RBS	*	*	-	-	_	_	_	_	_
+3	notorious	notorious	JJ	*	*	+	+	_	_	_	_	_
+4	of	of	IN	*	*	-	-	_	_	_	_	_
+5	these	these	DT	*	*	-	-	_	_	_	_	_
+6	physicians	physician	NNS	*	*	-	+	_	_	_	_	_
+7	was	be	VBD	*	*	-	-	_	_	_	_	_
+8	Josef	josef	NNP	*	*	-	-	_	_	_	unk-dir	_
+9	Mengele	mengele	NNP	*	*	-	+	_	unk-dir	_	_	unk-dir
+10	,	,	,	*	*	-	-	_	_	_	_	_
+11	who	who	WP	*	*	-	-	_	_	_	_	_
+12	worked	work	VBD	*	*	-	+	_	_	unk-dir	_	_
+13	in	in	IN	*	*	-	-	_	_	_	_	_
+14	Auschwitz	auschwitz	NNP	*	*	-	-	_	_	unk-dir	_	unk-dir
+15	.	.	.	*	*	-	-	_	_	_	_	_
+
+#Wiki1k:wikinews:1852403:1:0
+1	US	us	NNP	*	*	-	+	_	_	unk-dir	_	_
+2	Ambassador	ambassador	NNP	*	*	+	+	_	_	_	_	_
+3	to	to	IN	*	*	-	-	_	_	_	_	_
+4	France	france	NNP	*	*	-	-	_	_	unk-dir	_	_
+5	Jane	jane	NNP	*	*	-	+	_	unk-dir	unk-dir	_	unk-dir
+6	D.	d.	NNP	*	*	-	-	_	_	_	_	_
+7	Hartley	hartley	NNP	*	*	-	-	_	_	_	unk-dir	_
+8	attended	attend	VBD	*	*	-	+	_	_	_	_	_
+9	.	.	.	*	*	-	-	_	_	_	_	_
+
+#Wiki1k:wikipedia:14914:3:3
+1	GDP	gdp	NN	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_
+2	per	per	IN	*	*	-	+	_	dep:prep	_	_	_	_	_	_	_	_
+3	capita	capita	NN	*	*	-	-	_	_	dep:pobj	_	_	_	_	_	_	_
+4	was	be	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+5	broadly	broadly	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+6	stable	stable	JJ	*	*	+	+	_	_	_	_	_	_	_	_	_	_
+7	before	before	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+8	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+9	Industrial	industrial	NNP	*	*	-	-	_	_	_	_	dep:compound	_	_	_	_	_
+10	Revolution	revolution	NNP	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_
+11	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+12	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+13	emergence	emergence	NN	*	*	-	+	_	_	_	_	_	_	_	_	_	_
+14	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+15	the	the	DT	*	*	-	-	_	_	_	_	_	_	dep:det	_	_	_
+16	modern	modern	JJ	*	*	-	-	_	_	_	_	_	_	dep:amod	_	_	_
+17	capitalist	capitalist	JJ	*	*	-	-	_	_	_	_	_	_	dep:amod	_	_	_
+18	economy	economy	NN	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_	_
+19	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+20	while	while	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+21	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+22	Industrial	industrial	NNP	*	*	-	-	_	_	_	_	_	_	_	dep:compound	_	_
+23	Revolution	revolution	NNP	*	*	-	+	_	_	_	_	_	_	_	_	_	_
+24	began	begin	VBD	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_
+25	an	an	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+26	era	era	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+27	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+28	per-capita	per-capita	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_	unk-dir
+29	economic	economic	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_	unk-dir
+30	growth	growth	NN	*	*	-	+	_	_	_	_	_	_	_	unk-dir	unk-dir	_
+31	in	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+32	capitalist	capitalist	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+33	economies	economy	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+34	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:30598:15:0
+1	A	a	DT	*	*	-	-	_	dep:det	_	_	_
+2	passenger	passenger	NN	*	*	-	-	_	dep:compound	_	_	_
+3	train	train	NN	*	*	-	+	_	_	_	unk-dir	unk-dir
+4	is	be	VBZ	*	*	-	-	_	_	_	_	_
+5	one	one	CD	*	*	-	-	_	_	_	_	_
+6	which	which	WDT	*	*	-	-	_	_	_	_	_
+7	includes	include	VBZ	*	*	-	-	_	_	_	_	_
+8	passenger-carrying	passenger-carrying	JJ	*	*	-	-	_	_	unk-dir	_	_
+9	vehicles	vehicle	NNS	*	*	-	+	_	_	_	unk-dir	_
+10	which	which	WDT	*	*	-	-	_	_	_	_	_
+11	can	can	MD	*	*	-	-	_	_	_	_	_
+12	often	often	RB	*	*	-	-	_	_	_	unk-dir	_
+13	be	be	VB	*	*	-	-	_	_	_	_	_
+14	very	very	RB	*	*	-	-	_	_	_	_	_
+15	long	long	RB	*	*	+	+	_	_	_	_	_
+16	and	and	CC	*	*	-	-	_	_	_	_	_
+17	fast	fast	RB	*	*	-	+	_	_	_	unk-dir	_
+18	.	.	.	*	*	-	-	_	_	_	_	_
+
+#Wiki1k:wikinews:715678:2:1
+1	This	this	DT	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_	_
+2	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+3	bureaucracy	bureaucracy	NN	*	*	+	+	_	_	_	_	_	_	_	_	_	_
+4	gone	go	VBN	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_	_
+5	wild	wild	JJ	*	*	-	-	_	_	unk-dir	_	_	_	_	_	_	_
+6	--	--	:	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+7	the	the	DT	*	*	-	-	_	_	_	dep:det	_	_	_	_	_	_
+8	Minister	minister	NNP	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_	_
+9	wants	want	VBZ	*	*	-	+	_	_	_	_	_	_	_	_	_	_
+10	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+11	remove	remove	VB	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_	_
+12	the	the	DT	*	*	-	-	_	_	_	_	_	_	dep:det	_	_	_
+13	crossing	crossing	NN	*	*	-	+	_	_	_	_	unk-dir	unk-dir	_	_	_	_
+14	because	because	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+15	he	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+16	does	do	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+17	n't	n't	RB	*	*	-	+	_	_	_	_	unk-dir	unk-dir	_	_	_	_
+18	like	like	VB	*	*	-	-	_	_	_	_	_	_	_	unk-dir	_	_
+19	some	some	DT	*	*	-	-	_	_	_	_	_	_	_	_	dep:det	_
+20	pictures	picture	NNS	*	*	-	+	_	_	_	_	_	_	_	_	_	unk-dir
+21	that	that	WDT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+22	people	people	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_	unk-dir
+23	have	have	VBP	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+24	been	be	VBN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+25	taking	take	VBG	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_
+26	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:19048:67:3
+1	Well	well	RB	*	*	-	-	_	dep:intj	_	_	_	_
+2	known	know	VBN	*	*	-	+	_	_	unk-dir	_	_	_
+3	examples	example	NNS	*	*	+	+	_	_	_	_	_	_
+4	include	include	VBP	*	*	-	-	_	_	_	_	_	_
+5	the	the	DT	*	*	-	-	_	_	_	_	_	_
+6	condensation	condensation	NN	*	*	-	-	_	_	_	_	_	_
+7	of	of	IN	*	*	-	-	_	_	_	_	_	_
+8	the	the	DT	*	*	-	-	_	_	_	_	_	_
+9	Higgs	higgs	NNP	*	*	-	-	_	_	_	unk-dir	_	_
+10	boson	boson	NN	*	*	-	+	_	_	_	_	_	_
+11	in	in	IN	*	*	-	-	_	_	_	_	_	_
+12	particle	particle	NN	*	*	-	+	_	_	_	unk-dir	_	_
+13	physics	physics	NN	*	*	-	-	_	_	unk-dir	_	unk-dir	_
+14	,	,	,	*	*	-	-	_	_	_	_	_	_
+15	and	and	CC	*	*	-	-	_	_	_	_	_	_
+16	ferromagnetism	ferromagnetism	NN	*	*	-	-	_	_	unk-dir	_	_	_
+17	in	in	IN	*	*	-	-	_	_	_	_	_	_
+18	condensed	condense	VBN	*	*	-	-	_	_	_	_	_	dep:amod
+19	matter	matter	NN	*	*	-	-	_	_	_	_	_	dep:compound
+20	physics	physics	NN	*	*	-	+	_	_	unk-dir	_	unk-dir	_
+21	.	.	.	*	*	-	-	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:51518:13:0
+1	In	in	IN	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_
+2	the	the	DT	*	*	-	-	_	_	dep:det	_	_	_	_	_	_	_
+3	Netherlands	netherlands	NNP	*	*	-	+	_	dep:pobj	_	_	_	_	_	_	_	_
+4	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+5	a	a	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+6	low-lying	low-lying	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+7	country	country	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+9	dams	dam	NNS	*	*	-	-	_	_	_	unk-dir	_	_	_	_	_	_
+10	were	be	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+11	often	often	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+12	applied	apply	VBN	*	*	+	+	_	_	_	_	_	_	_	_	_	_
+13	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+14	block	block	VB	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+15	rivers	river	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+16	in	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+17	order	order	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+18	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+19	regulate	regulate	VB	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_
+20	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+21	water	water	NN	*	*	-	-	_	_	_	_	_	dep:compound	_	_	_	_
+22	level	level	NN	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_	_
+23	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+24	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+25	prevent	prevent	VB	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_
+26	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	dep:det	_	_
+27	sea	sea	NN	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_
+28	from	from	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+29	entering	enter	VBG	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_
+30	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+31	marsh	marsh	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	dep:compound
+32	lands	land	NNS	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_
+33	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:711152:0:0
+1	David	david	NNP	*	*	-	+	_	_	_	unk-dir	unk-dir	_	unk-dir	unk-dir	_	_	_	_	unk-dir	_	_	_
+2	Miliband	miliband	NNP	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	former	former	JJ	*	*	-	-	_	_	dep:amod	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	UK	uk	NNP	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_	_
+6	Foreign	foreign	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	secretary	secretary	NN	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	announced	announce	VBN	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	today	today	NN	*	*	-	-	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_
+11	he	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	standing	stand	VBG	*	*	-	+	_	_	_	_	_	_	unk-dir	unk-dir	_	_	_	_	_	_	_	_
+14	down	down	RP	*	*	-	-	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_
+15	as	as	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	an	an	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	MP	mp	NNP	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	take	take	VB	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_	_
+20	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	job	job	NN	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+22	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	President	president	NNP	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+24	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	Chief	chief	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	dep:compound	_	_	_	_	_
+26	Executive	executive	NNP	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_
+27	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	dep:det	_	_	_	_
+29	International	international	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	dep:compound	_	_	_	_
+30	Rescue	rescue	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	dep:compound	_	_	_	_
+31	Committee	committee	NNP	*	*	-	+	_	_	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_
+32	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	a	a	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	non-profit	non-profit	JJ	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	unk-dir	_	_
+35	aid	aid	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	organisation	organisation	NN	*	*	-	-	_	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+37	based	base	VBN	*	*	-	+	_	_	_	_	_	_	unk-dir	unk-dir	_	_	_	_	_	_	_	_
+38	in	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	New	new	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	dep:compound	_
+40	York	york	NNP	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	dep:compound
+41	City	city	NNP	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_	_	_	_
+42	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:1792869:2:2
+1	In	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+2	Germany	germany	NNP	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_
+3	publishers	publisher	NNS	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_	_
+4	willingly	willingly	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+5	forfeited	forfeit	VBD	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_
+6	their	-pron-	PRP$	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+7	right	right	NN	*	*	-	+	_	_	unk-dir	_	_	_	_	_	_	_
+8	to	to	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+9	payment	payment	NN	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_
+10	from	from	IN	*	*	-	+	_	_	_	_	dep:prep	_	_	_	_	_
+11	Google	google	NNP	*	*	-	-	_	_	_	_	_	dep:pobj	_	_	_	_
+12	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+13	given	give	VBN	*	*	+	+	_	_	_	_	_	_	_	_	_	_
+14	how	how	WRB	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+15	much	much	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+16	traffic	traffic	NN	*	*	-	-	_	_	_	_	_	_	unk-dir	_	_	_
+17	they	-pron-	PRP	*	*	-	+	_	_	_	_	_	_	_	_	_	_
+18	would	would	MD	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_
+19	lose	lose	VB	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	_
+20	from	from	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+21	not	not	RB	*	*	-	-	_	_	_	_	_	_	_	unk-dir	_	_
+22	being	be	VBG	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+23	indexed	index	VBN	*	*	-	-	_	_	_	_	_	_	_	unk-dir	_	_
+24	on	on	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+25	Google	google	NNP	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_
+26	News	news	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	unk-dir
+27	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:2144299:0:0
+1	Major	major	JJ	*	*	-	-	_	_	_	_	_	_	_	_	_
+2	general	general	JJ	*	*	+	+	_	_	_	_	_	_	_	_	_
+3	Fuad	fuad	NNP	*	*	-	-	_	_	_	_	_	unk-dir	_	_	_
+4	Basya	basya	NNP	*	*	-	-	_	unk-dir	unk-dir	_	_	unk-dir	_	_	_
+5	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+6	spokesman	spokesman	NN	*	*	-	+	_	_	_	_	_	_	_	_	_
+7	for	for	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+8	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+9	Indonesian	indonesian	JJ	*	*	-	-	_	_	_	dep:amod	_	_	_	_	_
+10	military	military	NN	*	*	-	+	_	_	unk-dir	_	_	_	_	_	_
+11	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+12	said	say	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_
+13	fisherman	fisherman	NN	*	*	-	+	_	_	_	_	_	_	_	_	_
+14	first	first	RB	*	*	-	+	_	_	_	_	_	_	_	_	_
+15	noticed	notice	VBD	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_
+16	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+17	people	people	NNS	*	*	-	-	_	_	_	_	_	_	unk-dir	_	_
+18	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_
+19	a	a	DT	*	*	-	-	_	_	_	_	_	_	_	dep:det	_
+20	warship	warship	NN	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir
+21	was	be	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_
+22	deployed	deploy	VBN	*	*	-	+	_	_	_	_	_	_	_	_	_
+23	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_
+24	retrieve	retrieve	VB	*	*	-	-	_	_	_	_	_	_	_	_	_
+25	them	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	_
+26	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:11657:40:1
+1	Through	through	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+2	research	research	NN	*	*	-	+	_	_	unk-dir	_	_	_	_	_	_
+3	and	and	CC	*	*	-	-	_	dep:cc	_	_	_	_	_	_	_
+4	studying	study	VBG	*	*	-	-	_	dep:conj	_	_	_	_	_	_	_
+5	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+6	consumers	consumer	NNS	*	*	-	-	_	_	unk-dir	_	_	_	_	_	_
+7	'	'	POS	*	*	-	-	_	_	_	_	_	_	_	_	_
+8	lives	life	NNS	*	*	-	+	_	_	_	_	unk-dir	unk-dir	_	_	_
+9	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+10	needs	need	NNS	*	*	+	+	_	_	_	_	_	_	_	_	_
+11	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+12	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+13	customer	customer	NN	*	*	-	-	_	_	_	_	_	_	_	_	_
+14	can	can	MD	*	*	-	-	_	_	_	_	_	_	_	_	_
+15	be	be	VB	*	*	-	+	_	_	_	_	_	_	_	_	_
+16	obtained	obtain	VBN	*	*	-	-	_	_	_	_	_	_	_	_	_
+17	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_
+18	help	help	VB	*	*	-	+	_	_	_	_	_	_	_	_	_
+19	fashion	fashion	NN	*	*	-	-	_	_	_	_	_	_	dep:compound	_	_
+20	brands	brand	NNS	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_
+21	know	know	VBP	*	*	-	-	_	_	_	_	_	unk-dir	_	_	_
+22	what	what	WP	*	*	-	-	_	_	_	_	_	_	_	_	_
+23	trends	trend	VBZ	*	*	-	-	_	_	_	_	_	unk-dir	_	_	unk-dir
+24	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	dep:det	_
+25	consumers	consumer	NNS	*	*	-	+	_	_	_	unk-dir	_	_	_	_	unk-dir
+26	are	be	VBP	*	*	-	-	_	_	_	_	_	_	_	_	_
+27	ready	ready	JJ	*	*	-	+	_	_	_	_	_	_	_	_	_
+28	for	for	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+29	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:6678:41:0
+1	Although	although	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+2	wildcats	wildcat	NNS	*	*	-	-	_	unk-dir	_	unk-dir	_	_	_	_	_	_	_	_
+3	are	be	VBP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+4	solitary	solitary	JJ	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	DT	*	*	-	-	_	_	dep:det	_	_	_	_	_	_	_	_	_
+7	social	social	JJ	*	*	-	-	_	_	dep:amod	_	_	_	_	_	_	_	_	_
+8	behavior	behavior	NN	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_	_	_	_
+9	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+10	domestic	domestic	JJ	*	*	-	-	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+11	cats	cat	NNS	*	*	-	+	_	unk-dir	_	_	_	_	unk-dir	_	_	_	_	_
+12	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+13	much	much	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+14	more	more	JJR	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+15	variable	variable	JJ	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+16	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+17	ranges	range	VBZ	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+18	from	from	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+19	widely	widely	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+20	dispersed	disperse	VBN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+21	individuals	individual	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+22	to	to	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+23	feral	feral	JJ	*	*	-	-	_	_	_	_	_	_	unk-dir	_	_	_	_	_
+24	cat	cat	NN	*	*	-	-	_	_	_	unk-dir	unk-dir	unk-dir	unk-dir	_	_	_	_	_
+25	colonies	colony	NNS	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+26	that	that	WDT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+27	form	form	VBP	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+28	around	around	IN	*	*	-	+	_	_	_	_	_	_	_	unk-dir	_	_	_	_
+29	a	a	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+30	food	food	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	unk-dir	_	_
+31	source	source	NN	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_	_
+32	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+33	based	base	VBN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	unk-dir	_
+34	on	on	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+35	groups	group	NNS	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+36	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+37	co-operating	co-operat	VBG	*	*	-	+	_	_	_	unk-dir	_	_	_	_	_	_	_	_
+38	females	female	NNS	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	dep:dobj
+39	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:1513141:1:0
+1	Russia	russia	NNP	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_	_	_
+2	also	also	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+3	said	say	VBD	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_
+4	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+5	exercises	exercise	NNS	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_	_	_
+6	were	be	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+7	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+8	include	include	VB	*	*	-	+	_	_	unk-dir	_	_	_	_	_	_	_	_
+9	an	an	DT	*	*	-	-	_	_	_	_	dep:det	_	_	_	_	_	_
+10	array	array	NN	*	*	-	+	_	_	unk-dir	_	_	_	_	_	_	_	_
+11	of	of	IN	*	*	-	+	_	_	_	_	dep:prep	_	_	_	_	_	_
+12	fighters	fighter	NNS	*	*	-	+	_	_	_	_	_	dep:pobj	_	_	_	_	_
+13	,	,	,	*	*	-	-	_	_	_	_	_	_	dep:punct	_	_	_	_
+14	bombers	bomber	NNS	*	*	-	+	_	_	_	_	_	_	dep:conj	_	_	_	_
+15	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	dep:cc	_	_	_
+16	helicopters	helicopter	NNS	*	*	-	-	_	_	_	_	_	_	_	dep:conj	_	_	_
+17	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+18	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+19	told	tell	VBD	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	_	_
+20	Interfax	interfax	NNP	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	_	_
+21	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+22	purpose	purpose	NN	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_	_	_
+23	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+24	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+25	exercises	exercise	NNS	*	*	-	-	_	_	_	unk-dir	_	_	_	_	unk-dir	_	_
+26	is	be	VBZ	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+27	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+28	improve	improve	VB	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_
+29	air	air	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	dep:compound
+30	force	force	NN	*	*	-	+	_	_	_	_	_	_	_	_	_	unk-dir	_
+31	cohesion	cohesion	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+32	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:26743:81:1
+1	Freud	freud	NNP	*	*	-	-	_	_	_	_	_
+2	postulated	postulate	VBD	*	*	-	-	_	_	_	_	_
+3	the	the	DT	*	*	-	-	_	_	_	_	_
+4	concept	concept	NN	*	*	-	-	_	_	_	_	_
+5	of	of	IN	*	*	-	-	_	_	_	_	_
+6	``	``	``	*	*	-	-	_	_	_	_	_
+7	vaginal	vaginal	JJ	*	*	-	-	_	_	_	_	_
+8	orgasm	orgasm	NN	*	*	-	-	_	_	_	_	_
+9	''	''	''	*	*	-	-	_	_	_	_	_
+10	as	as	IN	*	*	-	-	_	_	_	_	_
+11	separate	separate	JJ	*	*	+	+	_	_	_	_	_
+12	from	from	IN	*	*	-	-	_	_	_	_	_
+13	clitoral	clitoral	JJ	*	*	-	-	_	_	dep:amod	_	_
+14	orgasm	orgasm	NN	*	*	-	+	_	unk-dir	_	_	_
+15	,	,	,	*	*	-	-	_	_	_	_	_
+16	achieved	achieve	VBN	*	*	-	+	_	_	_	_	_
+17	by	by	IN	*	*	-	-	_	_	_	_	_
+18	external	external	JJ	*	*	-	-	_	_	_	_	unk-dir
+19	stimulation	stimulation	NN	*	*	-	+	_	_	_	unk-dir	_
+20	of	of	IN	*	*	-	-	_	_	_	_	_
+21	the	the	DT	*	*	-	-	_	_	_	_	_
+22	clitoris	clitoris	NN	*	*	-	-	_	_	_	unk-dir	unk-dir
+23	.	.	.	*	*	-	-	_	_	_	_	_
+
+#Wiki1k:wikinews:512000:1:3
+1	Armstrong	armstrong	NNP	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_	_	_
+2	used	use	VBD	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_
+3	an	an	DT	*	*	-	-	_	_	dep:det	_	_	_	_	_	_	_	_
+4	emergency	emergency	NN	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_	_	_
+5	set	set	NN	*	*	-	-	_	_	dep:acl	_	_	_	_	_	_	_	_
+6	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+7	thrusters	thruster	NNS	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_	_	_
+8	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+9	regain	regain	VB	*	*	-	+	_	unk-dir	_	_	_	_	_	_	_	_	_
+10	control	control	NN	*	*	-	-	_	_	_	unk-dir	_	_	_	_	_	_	_
+11	;	;	:	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+12	Gemini	gemini	NNP	*	*	-	-	_	_	_	_	dep:compound	_	_	_	_	_	_
+13	VIII	viii	NNP	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_	_	_
+14	then	then	RB	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+15	landed	land	VBD	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_
+16	in	in	IN	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_	_	_
+17	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	dep:det	_	_	_
+18	Pacific	pacific	NNP	*	*	-	-	_	_	_	_	_	_	_	dep:compound	_	_	_
+19	Ocean	ocean	NNP	*	*	-	+	_	_	_	_	_	_	dep:pobj	_	_	_	_
+20	after	after	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+21	ten	ten	CD	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_	_	_
+22	hours	hour	NNS	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir	_	_
+23	of	of	IN	*	*	-	+	_	_	_	_	_	_	_	_	_	dep:prep	_
+24	flight	flight	NN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	dep:pobj
+25	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikinews:1361108:3:5
+1	``	``	``	*	*	-	-	_	_	_	_	_	_	_	_	_
+2	He	-pron-	PRP	*	*	-	-	_	dep:nsubj	_	_	_	_	_	_	_
+3	was	be	VBD	*	*	-	+	_	_	_	unk-dir	_	unk-dir	_	_	_
+4	an	an	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+5	incredibly	incredibly	RB	*	*	-	-	_	_	dep:advmod	_	_	_	_	_	_
+6	positive	positive	JJ	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_
+7	young	young	JJ	*	*	+	+	_	_	_	_	_	_	_	_	_
+8	man	man	NN	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_
+9	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_
+10	a	a	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+11	credit	credit	NN	*	*	-	+	_	_	_	_	_	_	_	_	_
+12	to	to	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+13	his	-pron-	PRP$	*	*	-	+	_	_	_	_	_	_	_	_	_
+14	family	family	NN	*	*	-	-	_	_	_	_	_	_	unk-dir	_	_
+15	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+16	to	to	IN	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_
+17	Burntwood	burntwood	NNP	*	*	-	-	_	_	_	_	_	_	_	dep:pobj	_
+18	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_
+19	to	to	IN	*	*	-	-	_	_	_	_	_	_	_	_	dep:aux
+20	humanity	humanity	NN	*	*	-	+	_	_	_	_	_	unk-dir	_	_	_
+21	itself	-pron-	PRP	*	*	-	-	_	_	_	_	_	_	_	_	dep:dobj
+22	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:21019:11:3
+1	At	at	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	this	this	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	time	time	NN	*	*	+	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Michelangelo	michelangelo	NNP	*	*	-	-	_	_	unk-dir	_	_	_	_	_	_	_	_	_	_
+5	studied	study	VBD	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	robust	robust	JJ	*	*	-	-	_	_	_	dep:amod	_	_	_	_	_	_	_	_	_
+8	reliefs	relief	NNS	*	*	-	+	_	_	unk-dir	_	unk-dir	_	_	_	_	_	_	_	_
+9	carved	carve	VBN	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	by	by	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Jacopo	jacopo	NNP	*	*	-	-	_	_	_	_	_	dep:compound	_	_	_	_	_	_	_
+12	della	della	NN	*	*	-	-	_	_	_	_	_	dep:compound	_	_	_	_	_	_	_
+13	Quercia	quercia	NNP	*	*	-	+	_	unk-dir	_	_	unk-dir	_	_	_	unk-dir	_	_	_	_
+14	around	around	IN	*	*	-	+	_	_	unk-dir	_	unk-dir	_	_	_	unk-dir	_	_	_	_
+15	main	main	JJ	*	*	-	-	_	_	_	_	_	_	_	dep:amod	_	_	_	_	_
+16	portal	portal	NN	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_	_	_	_	_
+17	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Basilica	basilica	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	St	st	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Petronius	petronius	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	including	include	VBG	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	panel	panel	NN	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	_	_	_	_
+27	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	The	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	Creation	creation	NNP	*	*	-	+	_	_	unk-dir	_	unk-dir	_	_	_	_	unk-dir	_	_	_
+30	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	Eve	eve	NNP	*	*	-	-	_	_	unk-dir	_	unk-dir	_	_	_	unk-dir	unk-dir	_	_	_
+32	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	composition	composition	NN	*	*	-	-	_	_	_	_	_	_	_	_	unk-dir	unk-dir	_	_	_
+34	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	which	which	WDT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	was	be	VBD	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	reappear	reappear	VB	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	on	on	IN	*	*	-	+	_	_	_	_	_	_	_	_	_	unk-dir	_	_	_
+40	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	dep:det
+41	Sistine	sistine	NNP	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	dep:compound	_
+42	Chapel	chapel	NNP	*	*	-	+	_	_	_	_	_	_	_	_	_	_	_	_	dep:compound
+43	ceiling	ceiling	NN	*	*	-	+	_	_	_	_	_	_	_	_	_	_	dep:pobj	_	_
+44	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:56285:55:0
+1	The	the	DT	*	*	-	-	_	dep:det	_	_	_	_	_
+2	Paralympics	paralympics	NNP	*	*	-	+	_	_	unk-dir	_	_	_	_
+3	developed	develop	VBD	*	*	+	+	_	_	_	_	_	_	_
+4	from	from	IN	*	*	-	-	_	_	_	_	_	_	_
+5	a	a	DT	*	*	-	-	_	_	_	_	_	_	_
+6	rehabilitation	rehabilitation	NN	*	*	-	-	_	_	_	unk-dir	_	_	_
+7	programme	programme	NN	*	*	-	+	_	_	unk-dir	_	_	_	_
+8	for	for	IN	*	*	-	-	_	_	_	_	_	_	_
+9	British	british	JJ	*	*	-	-	_	_	_	_	dep:amod	_	_
+10	war	war	NN	*	*	-	-	_	_	_	_	dep:compound	_	_
+11	veterans	veteran	NNS	*	*	-	+	_	_	unk-dir	_	_	_	_
+12	with	with	IN	*	*	-	+	_	_	_	_	dep:prep	_	_
+13	spinal	spinal	JJ	*	*	-	-	_	_	_	_	_	_	dep:amod
+14	injuries	injury	NNS	*	*	-	+	_	_	_	_	_	dep:pobj	_
+15	.	.	.	*	*	-	-	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:803:113:3
+1	This	this	DT	*	*	-	-	_	unk-dir	_	_	_	_	_
+2	in	in	IN	*	*	-	-	_	_	_	_	_	_	_
+3	turn	turn	NN	*	*	-	-	_	_	_	_	_	_	_
+4	can	can	MD	*	*	-	-	_	_	_	_	_	_	_
+5	be	be	VB	*	*	-	-	_	_	_	_	_	_	_
+6	made	make	VBN	*	*	+	+	_	_	_	_	_	_	_
+7	into	into	IN	*	*	-	-	_	_	_	_	_	_	_
+8	a	a	DT	*	*	-	-	_	_	_	_	_	_	_
+9	nisbah	nisbah	JJ	*	*	-	-	_	_	unk-dir	_	_	_	_
+10	adjective	adjective	NN	*	*	-	+	_	_	_	unk-dir	_	_	_
+11	ishtirākī	ishtirākī	NN	*	*	-	+	_	unk-dir	_	_	_	_	_
+12	`	`	''	*	*	-	-	_	_	_	_	_	_	_
+13	socialist	socialist	JJ	*	*	-	-	_	_	_	_	_	_	_
+14	'	'	''	*	*	-	-	_	_	_	_	_	_	_
+15	,	,	,	*	*	-	-	_	_	_	_	_	_	_
+16	from	from	IN	*	*	-	-	_	_	_	_	_	_	_
+17	which	which	WDT	*	*	-	-	_	_	_	_	_	_	_
+18	an	an	DT	*	*	-	-	_	_	_	_	_	_	_
+19	abstract	abstract	JJ	*	*	-	-	_	_	_	_	dep:amod	_	_
+20	noun	noun	NN	*	*	-	+	_	_	_	_	_	unk-dir	unk-dir
+21	ishtirākiyyah	ishtirākiyyah	NN	*	*	-	-	_	_	_	_	unk-dir	_	unk-dir
+22	`	`	''	*	*	-	-	_	_	_	_	_	_	_
+23	socialism	socialism	NN	*	*	-	+	_	_	_	_	_	_	_
+24	'	'	''	*	*	-	-	_	_	_	_	_	_	_
+25	can	can	MD	*	*	-	-	_	_	_	_	_	_	_
+26	be	be	VB	*	*	-	-	_	_	_	_	_	_	_
+27	derived	derive	VBN	*	*	-	+	_	_	_	_	_	_	_
+28	.	.	.	*	*	-	-	_	_	_	_	_	_	_
+
+#Wiki1k:wikipedia:25202:39:0
+1	In	in	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+2	Niels	niels	NNP	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_
+3	Bohr	bohr	NNP	*	*	-	-	_	unk-dir	_	_	_	_	_	_	_
+4	's	's	POS	*	*	-	-	_	_	_	_	_	_	_	_	_
+5	mature	mature	JJ	*	*	+	+	_	_	_	_	_	_	_	_	_
+6	view	view	NN	*	*	-	-	_	_	unk-dir	_	_	_	_	_	_
+7	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+8	quantum	quantum	JJ	*	*	-	-	_	_	_	unk-dir	_	_	_	_	_
+9	mechanical	mechanical	JJ	*	*	-	-	_	_	_	unk-dir	_	_	_	_	_
+10	phenomena	phenomenon	NNS	*	*	-	+	_	_	_	_	unk-dir	_	_	_	_
+11	are	be	VBP	*	*	-	-	_	_	_	_	_	_	_	_	_
+12	required	require	VBN	*	*	-	+	_	_	_	_	_	_	_	_	_
+13	to	to	TO	*	*	-	-	_	_	_	_	_	_	_	_	_
+14	be	be	VB	*	*	-	-	_	_	_	_	_	_	_	_	_
+15	experiments	experiment	NNS	*	*	-	-	_	_	_	_	unk-dir	_	_	_	_
+16	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+17	with	with	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+18	complete	complete	JJ	*	*	-	-	_	_	_	_	_	unk-dir	_	_	_
+19	descriptions	description	NNS	*	*	-	+	_	_	_	_	_	_	_	_	_
+20	of	of	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+21	all	all	PDT	*	*	-	-	_	_	_	_	_	_	_	_	_
+22	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+23	devices	device	NNS	*	*	-	+	_	_	_	_	_	_	_	_	_
+24	for	for	IN	*	*	-	-	_	_	_	_	_	_	_	_	_
+25	the	the	DT	*	*	-	-	_	_	_	_	_	_	_	_	_
+26	system	system	NN	*	*	-	-	_	_	_	_	_	_	_	_	_
+27	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+28	preparative	preparative	JJ	*	*	-	-	_	_	_	_	_	_	_	unk-dir	_
+29	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+30	intermediary	intermediary	NN	*	*	-	+	_	_	_	_	_	_	_	_	unk-dir
+31	,	,	,	*	*	-	-	_	_	_	_	_	_	_	_	_
+32	and	and	CC	*	*	-	-	_	_	_	_	_	_	_	_	_
+33	finally	finally	RB	*	*	-	-	_	_	_	_	_	_	_	_	_
+34	measuring	measure	VBG	*	*	-	+	_	_	_	_	_	_	unk-dir	_	_
+35	.	.	.	*	*	-	-	_	_	_	_	_	_	_	_	_
+
