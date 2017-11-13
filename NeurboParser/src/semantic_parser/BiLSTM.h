@@ -28,7 +28,7 @@ using namespace std;
 using namespace dynet;
 const int UNK_ID = 0;
 const unsigned VOCAB_SIZE = 35000;
-const unsigned POS_SIZE = 49;
+const unsigned POS_SIZE = 52;
 
 class BiLSTM {
 
